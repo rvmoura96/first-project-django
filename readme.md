@@ -1,1 +1,3 @@
-Primeiro projeto em Django, seguindo as orienta√√es apresentadas no tutorial disponibilizado pelas Django Girls.
+Primeiro projeto em Django, seguindo as orienta√ß√µeses apresentadas no tutorial disponibilizado pelas Django Girls.
+
+Projeto ainda em desenvolvimento.
